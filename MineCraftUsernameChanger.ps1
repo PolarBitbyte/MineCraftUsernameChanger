@@ -1,9 +1,9 @@
 <#
 .SYNOPSIS
-    Changes the display name in for Minecraft version 1.10.2.
+    Changes the display name for Minecraft version 1.10.2.
 .DESCRIPTION
     Changes the display name for the active profile in Minecraft
-    to the $MCUSerName variable. This allows multiple user to 
+    to the $MCUSerName variable. This allows multiple users to 
     connect to a Minecraft server from the same account. This is 
     for connections on the local LAN only as the Minecraft server 
     needs to be in offline mode. 
@@ -13,7 +13,7 @@
 
 #>
 
-$MCUserName = "Daddy"
+$MCUserName = "DifferentUsername"
 $LP = $env:APPDATA+'\.minecraft\launcher_profiles.json'
 
 
