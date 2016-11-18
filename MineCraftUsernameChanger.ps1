@@ -1,7 +1,7 @@
 <#
 .SYNOPSIS
     Changes the display name for Minecraft.
-    Tested and working on versions:
+    Tested on versions:
     1.11                [Success]
     1.10.2              [Success]
     Pervious Versions   [Untested]
