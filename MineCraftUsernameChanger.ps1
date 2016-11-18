@@ -2,8 +2,9 @@
 .SYNOPSIS
     Changes the display name for Minecraft.
     Tested and working on versions:
-    1.11    [Success]
-    1.10.2  [Success]
+    1.11                [Success]
+    1.10.2              [Success]
+    Pervious Versions   [Untested]
 
 .DESCRIPTION
     Changes the display name for the active profile in Minecraft
