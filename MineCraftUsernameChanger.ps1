@@ -1,6 +1,10 @@
 <#
 .SYNOPSIS
-    Changes the display name for Minecraft version 1.10.2.
+    Changes the display name for Minecraft.
+    Tested and working on versions:
+    1.11    [Success]
+    1.10.2  [Success]
+
 .DESCRIPTION
     Changes the display name for the active profile in Minecraft
     to the $MCUSerName variable. This allows multiple users to 
